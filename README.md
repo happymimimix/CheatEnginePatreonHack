@@ -1,6 +1,6 @@
 # Hacking the authentication logic in Cheat Engine Patreon
 
-**This program is made only for study purpose, do not use it for illegal activities!**
+**Disclaimer: This program is made only for study purpose, do not use it for illegal activities!**
 
 # How does it work?
 
