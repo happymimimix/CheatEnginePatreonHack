@@ -11,3 +11,5 @@ For people who own Cheat Engine Patreon, you might notice that Cheat Engine stop
 This tool abuses this machenics by encoding the current system date in the expected format and write it into the registry. 
 This will make Cheat Engine Patreon installer think that you have already authenticated Cheat Engine Patreon in the last 30 days and allows you to proceed with the installation. 
 
+# A proof that I own Cheat Engine Patreon myself and I'm NOT doing this because I can't afford it! 
+<img width="772" height="833" alt="image" src="https://github.com/user-attachments/assets/b5d1bf81-7eb1-4ff5-b09e-4262c00bd72a" />
